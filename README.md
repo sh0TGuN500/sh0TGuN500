@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @sh0TGuN500
+- 👋 Hi, I’m Stepan Veklych
 - 👀 I’m interested in backend web development
-- 🌱 I’m currently learning Django 3 and Java
-- 💞️ I’m looking to collaborate on Google
+- 🌱 I'm currently learning and developing on Django 3, and I plan to learn Java
+- 💞️ I want to work in Google
 - 📫 registry_hostail977@icloud.com
 
 <!---
