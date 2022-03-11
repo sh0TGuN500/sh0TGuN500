@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @sh0TGuN500
 - 👀 I’m interested in backend web development
 - 🌱 I’m currently learning Django 3 and Java
-- 💞️ I’m looking to collaborate on Luxoft
+- 💞️ I’m looking to collaborate on Google
 - 📫 registry_hostail977@icloud.com
 
 <!---
