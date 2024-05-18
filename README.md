@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Stepan Veklych
 - 👀 I’m interested in backend web development
-- 🌱 I'm currently learning and developing on Python Django, and planing to learn Java
+- 🌱 I'm currently learning and developing on Python Django, and planing to learn Java and TypeScript for React
 - 📫 registry_hostail977@icloud.com
 
 <!---
